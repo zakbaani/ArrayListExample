@@ -1,5 +1,10 @@
 import java.util.ArrayList;
 
+/**
+ * this is array list demo 
+ * @author zak
+ *
+ */
 public class Bag {
 	
 	private ArrayList<Student> studentsList = new ArrayList<>();
