@@ -60,7 +60,6 @@ public class Bag {
 		System.out.println(myBag.toString());
 		System.out.println(myBag.getSize());
 		
-		myBag.removeNum(s1);
 		
 		
 //		System.out.println(myBag.toString());
