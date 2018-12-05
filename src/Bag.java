@@ -7,6 +7,7 @@ import java.util.ArrayList;
  */
 public class Bag {
 	
+	//declare and initialize arraylist of students
 	private ArrayList<Student> studentsList = new ArrayList<>();
 	
 	public void addNumber(Student num) {
